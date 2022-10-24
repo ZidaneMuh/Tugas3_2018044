@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmarphoneShop</string>
+    <string name="deskription_menu">Dapat dihidupkan: Ya Warna: coral Disertai dus: Tidak Semua bagian lengkap: Ya Kondisi fisik baterai: Normal Kondisi fisik handphone: Good Ada retak di layar: Tidak Kondisi layar: Normal Sensor: Berfungsi normal Touchscreen: Berfungsi normal Internet (wifi): Berfungsi normal Panggilan keluar: Berfungsi normal Tombol volume up: Berfungsi normal Tombol volume down: Berfungsi normal Speaker: Berfungsi normal Dapat menerima panggilan: Berfungsi normal Mengisi daya: Berfungsi normal Audio jack: Berfungsi normal Nama Penjual: Anniska Dwi Fitrianti</string>
+    <string name="ingredients">Layar dan fungsi tidak bermasalah, jika ada lecet tidak lebih dari 2 titik</string>
+    <string name="Resep">Layar dan fungsi tidak bermasalah, jika ada lecet tidak lebih dari 2 titik</string>
+    <string name="price">PRICE</string>
+    <string name="Harga">Rp 12.805.000</string>
+</resources>
